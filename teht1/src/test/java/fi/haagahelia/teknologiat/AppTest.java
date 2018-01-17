@@ -1,4 +1,4 @@
-package fi.haagahelia.palvelinohjelmointi;
+package fi.haagahelia.teknologiat;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
