@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>fi.haagahelia</groupId>
-	<artifactId>palvelinohjelmointi</artifactId>
+	<artifactId>teknologiat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
-	<name>palvelinohjelmointi</name>
+	<name>teht1</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
